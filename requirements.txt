@@ -1,0 +1,11 @@
+streamlit
+torch
+numpy
+opencv-python
+google-generativeai
+torchvision
+matplotlib
+Pillow
+scikit-learn
+scipy
+scikit-image
